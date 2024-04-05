@@ -25,7 +25,7 @@ PathoPlant aims to develop a deep learning-based solution for the early detectio
 2. **Model Evaluation:** Evaluate the performance of the trained model using appropriate metrics and validation techniques to ensure accuracy and reliability.
 3. **Saving the Model:** Save the trained model as a .h5 file for future use and deployment in production environments.
 4. **Configuration Setup:** Configure the necessary path folders in the main.py file to ensure seamless integration with your local environment.
-5. **Running the Application:** Execute the application by running streamlit run main.py, allowing users to interact with the system and benefit from its capabilities.
+5. **Running the Application:** Execute the application by running **streamlit run main.py**, allowing users to interact with the system and benefit from its capabilities.
    **Note:** The mobile application of the project is under development.
 
 ## Contributing
