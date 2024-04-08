@@ -1,5 +1,11 @@
 # Universal Pathogen Detection In Plants Using Deep Learning Techniques
 
+**Authors:**
+
+<a href="https://github.com/Kanishk3813/DPBH-23/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Kanishk3813/DPBH-23" />
+</a>
+
 ## Overview
 PathoPlant aims to develop a deep learning-based solution for the early detection and identification of pathogens in plant species. By leveraging state-of-the-art deep learning models, the project seeks to address the challenges associated with manual plant pathogen diagnosis and monitoring, thereby improving agricultural productivity and crop yield.
 
