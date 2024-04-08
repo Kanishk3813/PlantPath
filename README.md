@@ -2,8 +2,8 @@
 
 **Authors:**
 
-<a href="https://github.com/Kanishk3813/DPBH-23/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Kanishk3813/DPBH-23" />
+<a href="https://github.com/Kanishk3813/PahoPlant/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Kanishk3813/PathoPlant" />
 </a>
 
 ## Overview
