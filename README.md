@@ -16,7 +16,7 @@ PathoPlant aims to develop a deep learning-based solution for the early detectio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kanishk3813/PathoPlant-Universal_Plant_Pathogen_Detection.git
+   git clone https://github.com/Kanishk3813/PlantPath.git
 - Download the dataset from [Kaggle](https://www.kaggle.com/datasets/kanishk3813/pathogen-dataset) or curate your own dataset.
 - Please Note : Install necessary python libraries by (`pip install {library_name}`) .
 
